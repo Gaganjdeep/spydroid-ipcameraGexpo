@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_9cb0496c215a250962c555dc358981da3ac28fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fabe27d7a7b7ef3fe077c6499cd0a4f08e1c427">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.0.0_bbe5974d4e2307201b8331210b210f2ddbc76d5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.0_6354bb3349a5c1093649f4f3371ae60119b70174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.0_77245d260e1ce468de8e1df776189ca52de40c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/libs/acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/acra-4.4.0_99a98e24ada113227a6b15bb25225e074fd68f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_2447f248db1b7dbf5ecbff31bd3b60c1f8c68b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.0_0922a9892b7fe3a38cff3f1a030d73eea13e3e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.0_bbc853bb8c176d825f5028a131fa9ff516d2e2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/libs/scpkix-jdk15on-1.47.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bed9af945c158e1e02dfbdf030179dd18e60d83">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/scpkix-jdk15on-1.47.0.2_ffd6fc432805d0173e57620ef5fcbc07758414a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.0_56f5a7e1afa8324b956349e771535a68ea26d159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58cd8dc3bbf63b37f0e107033257467511130e0f">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.0.0_c96ddee0b8d04256d7c387245e28f668b8f28e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e2fd2b87dc79fc6c8d70fda1247ac6f4a878a28">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.0.0_eab9d25aaa0c5458e853809442ce39506de6b9fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.0_8fda61a8477f2dae2199c3568d720d0a0be6a592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.0_7206103b680c1fb420e6d3a0eb7731c96f6d10ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3861e0294c61bf4bf968a1da1607497345dca283">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.0.0_5b38346676559073d5c12ce08cfeed2c936233c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/libs/scprov-jdk15on-1.47.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e2f52dbf7402b12b792282078b9f895512ae5af">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/scprov-jdk15on-1.47.0.2_487cc24096850609f2001b3868af77e6bdbce72f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.0_2077b2c8ea0ad45f77700ff730d9a8c59d7434c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ac49e5d5aea8772c8018ce2888145f04c5fe7ca">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.0.0_c4b40056921059120e2dd32a9bd48f0e7ab94909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.0_e8c3079a5f91df18d52e0a43430475b011eb8017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/libs/sc-light-jdk15on-1.47.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c98671cc97fa0d928be1c7eb5edd3fb95d3234">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/sc-light-jdk15on-1.47.0.2_ad65de7c3b62d338980e7216f7f4543d56650c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.0_04f53b9bf1b819f43b4e8f8f15b58122d77ec4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="543835521cf4f867223d9f2a4b19ce32f95b0573">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.0.0_d8f9d89f79d10fde9c7eb6b78a30c6ff4b4d9dec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e61c07206f0568b34939e2dc0e2bc75251648dc">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.0.0_5ceb906feb61b1b28827b0f78e39b6f9a671a51c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cc495f5634b8aaae30a37317ba687830da545cf">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.0.0_f35530c46e8d74a8acdc55749dadeb59660daff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_a6adc92a40cdf50213467e57dc6ff35b475fdaa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b7e0a45e8139272f3fe2a19d4e7b1122c769550">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.0.0_fcb9c2a233cfb7f219c22711e883028ca3ff93c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.0_e545c050fbccdb46250cc8ba18e6951841752f6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.0.0_c28f5fe83d86775920fc3bd54a3a7ae7dc683518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.0.0_2fb2105d029eb4d7a0a16132c26b3fe912f302ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.0_e2870b771bf3753fbf89feeb163702a77e27a837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.0.0_489ac3b3d021c13c00923dc6fb2722bae6aa31e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1c926efda90fbf653889fea922eacc527de8486">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.0.0_697885d24e9d404cc3ccae9118668eab3ff5926c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_8e7aaefcfba4f6e114457c4d0e3411f14a022201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ca4ffc4d90754f1f2438dfc3e94006cfcc6be98">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.0.0_b6d7a3045b7ec6e91add8bccf7026b27e93e6f93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_5e02b52a44a0c683547cf15cad0e72eeeb715a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_b184a39ea32d3c074d3f2eb1fd9687c7a0dc73e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.0_9b6e1188cd7d5b7b869d06fed0f4f3b5bfc3f5c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7518f2d3fce2ebec6a0bb8d2cd97eebc9f119df">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.0.0_32642dbf5fa181a9d4a200a70f3ec39e68233a98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.0_4627ae04224e8972ed4e4c115c85d2417ab2dfcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.0.0_1303a94065a0a1a3c89dcd0f8d842a88561578b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.0.0_58d4b530e44d132719f3576f866c64d6b32c0cd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.0.0_55e59d70b96a26c1153527bca6ce650cb19d0865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.0_6e8b3933d07ad580dec969206234e4855c710fde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_9665662d1d2f35239760b31d7e50ad51cd34bf34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.0_6d42d6175ae35729e229c136b3d9e5120e974567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fd86107cb2d2fa2d099250066cc664cdcfd476f">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.0.0_fd80b51c92c91f4890a4cdb6fc149f982d311bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_2bd42e0a474632bd6e3ccbac04ff538fa850e4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80338dde5f9d8e20efe2f2a44bc424aefe4eb8f4">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.0.0_e96a04509def8856e6a505e6c1f03772d62b218f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4701f9f79c8a00564912b21b0cb0cec3f51a7d23">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.0.0_256b7d7a85dcac45c9f63ffc368b5fb97af59e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a18773c279bde7e49e09f621aea613685c108c7f">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.0.0_1f4732c615cf67bc43bf51a28a3b40373fab7b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.0_c5dc0104f096111d0df1f93222451335edc3c9f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_68c11236929274765fa90a5e525562b499650caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.0_712cae1ede5b34ec0e6047cd2893c761be1f5788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_01dc694431a2ba536aa96f401d412148204e0311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_f1120a6fb780a547568b26e44d74e3fbef8b8db0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f36cf060b7f0d881ea6449c254ab8a570a3dcdbe">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.0.0_a420792b49ff22acd3c82809dbfcea669f534325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.0_c519a3fbf46dd3a41313217754dec596363cba4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_f53db9cedb97236246a4e3a74983af9ef7d246d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.0_264d6bd14802f82523da1734ffde012f3aa7f65a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_b741a03af777cbd4b3b8dba9feeb74182319d8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_583ea81801e311f0ea13cd44ecb7cd67e10f0290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.0.0_bf2af7034bd3bb87303a3fc54cfa4d5289a44343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.0.0_e71d586dea7f1e6ac3e901859fe50b20308d3033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.0_365bf2c5e2e12b8042222d741e5c0c586bfad4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.0_d7997a313b1f9a44dcb58f5235c517bdeae24617.jar" />
+    </item>
+
+</items>

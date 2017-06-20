@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/spydroid.xml",
+        "source": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/res/layout-sw600dp/spydroid.xml"
+    },
+    {
+        "merged": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/preview.xml",
+        "source": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/res/layout-sw600dp/preview.xml"
+    },
+    {
+        "merged": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/tablet.xml",
+        "source": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/res/layout-sw600dp/tablet.xml"
+    }
+]
