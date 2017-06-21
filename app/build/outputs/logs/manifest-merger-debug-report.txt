@@ -2,30 +2,34 @@
 manifest
 ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:2:1-56:12
 	package
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:3:5-44
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:2:11-37
 		INJECTED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml
 		INJECTED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:5:5-29
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:5:11-35
 		INJECTED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml
 		INJECTED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:4:5-31
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:4:11-37
 		INJECTED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml
 		INJECTED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:3:11-69
 uses-sdk
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:7:5-9:41
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:7:5-9:40
 MERGED from [com.android.support:multidex:1.0.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-compat:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-fragment:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:9:9-38
 		INJECTED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml
@@ -35,111 +39,130 @@ MERGED from [com.android.support:support-fragment:25.3.1] /home/gagandeep/Docume
 		INJECTED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml
 		INJECTED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml
 uses-feature#android.hardware.camera
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:11:5-60
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:11:5-59
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:11:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:12:5-70
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:12:5-69
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:12:19-67
 uses-permission#android.permission.INTERNET
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:14:5-67
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:14:5-66
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:14:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:15:5-79
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:15:5-78
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:15:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:16:5-81
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:16:5-80
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:16:22-78
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:17:5-71
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:17:5-70
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:17:22-68
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:18:5-68
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:18:5-67
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:18:22-65
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:19:5-76
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:19:5-75
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:19:22-73
 uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:20:5-86
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:20:5-85
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:20:22-83
 uses-permission#android.permission.CAMERA
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:21:2-62
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:21:5-64
 	android:name
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:21:19-59
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:21:22-62
 uses-permission#android.permission.VIBRATE
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:22:5-66
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:22:5-65
 	android:name
 		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:22:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:23:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:24:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:25:22-77
 application
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:25:5-54:19
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:27:5-54:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:29:9-41
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:31:9-41
 	android:allowBackup
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:27:9-35
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:29:9-35
 	android:icon
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:28:9-38
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:30:9-43
 	android:name
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:26:9-73
-activity#net.majorkernelpanic.spydroid.ui.SpydroidActivity
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:31:9-40:20
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:28:9-60
+activity#jaz.gexpo.spycam.ui.SpydroidActivity
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:32:9-37:20
 	android:label
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:33:13-45
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:34:13-45
 	android:launchMode
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:34:13-48
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:35:13-48
 	android:name
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:32:13-77
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:35:13-39:29
-action#android.intent.action.MAIN
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:36:17-69
-	android:name
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:36:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:38:17-77
-	android:name
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:38:27-74
-activity#com.google.ads.AdActivity
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:42:9-44:125
-	android:configChanges
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:44:13-122
-	android:name
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:43:13-53
-activity#net.majorkernelpanic.spydroid.ui.OptionsActivity
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:46:9-49:20
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:33:13-64
+activity#jaz.gexpo.spycam.ui.OptionsActivity
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:38:9-41:20
 	android:label
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:48:13-59
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:40:13-59
 	android:name
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:47:13-76
-service#net.majorkernelpanic.spydroid.api.CustomHttpServer
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:51:9-85
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:39:13-63
+service#jaz.gexpo.spycam.api.CustomHttpServer
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:43:9-72
 	android:name
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:51:18-83
-service#net.majorkernelpanic.spydroid.api.CustomRtspServer
-ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:52:9-85
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:43:18-70
+service#jaz.gexpo.spycam.api.CustomRtspServer
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:44:9-72
 	android:name
-		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:52:18-83
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:44:18-70
+activity#jaz.gexpo.spycam.ui.SplashActivity
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:46:9-53:20
+	android:noHistory
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:47:19-43
+	android:name
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:46:19-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/AndroidManifest.xml:51:27-74
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-compat:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-ui:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
 	android:value
-		ADDED from [com.android.support:support-v4:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v4:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:26:9-47

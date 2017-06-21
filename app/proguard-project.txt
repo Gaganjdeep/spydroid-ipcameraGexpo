@@ -23,7 +23,7 @@
 -dontwarn org.spongycastle.x509.util.LDAPStoreHelper
 -dontwarn org.spongycastle.jce.provider.X509LDAPCertStoreSpi
 
--keep public class net.majorkernelpanic.http.* {
+-keep public class gexpo.http.* {
 	*;
 }
 	

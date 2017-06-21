@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
-        "source": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/res/drawable-ldpi/icon.png"
-    },
-    {
         "merged": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/build/intermediates/res/merged/debug/drawable-ldpi/settings.png",
         "source": "/home/gagandeep/Documents/Gagan Stuff/G imps/spydroid-ipcamera/app/src/main/res/drawable-ldpi/settings.png"
     },

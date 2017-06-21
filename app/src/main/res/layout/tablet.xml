@@ -7,12 +7,12 @@
 	    android:orientation="horizontal"
 	    android:layout_width="match_parent"
 	    android:layout_height="match_parent">
-	    <fragment android:name="net.majorkernelpanic.spydroid.ui.HandsetFragment"
+	    <fragment android:name="jaz.gexpo.spycam.ui.HandsetFragment"
 	            android:id="@+id/main"
 	            android:layout_weight="1"
 	            android:layout_width="0dp"
 	            android:layout_height="match_parent" />
-	    <fragment android:name="net.majorkernelpanic.spydroid.ui.PreviewFragment"
+	    <fragment android:name="jaz.gexpo.spycam.ui.PreviewFragment"
 	            android:id="@+id/preview"
 	            android:layout_weight="2"
 	            android:layout_width="0dp"

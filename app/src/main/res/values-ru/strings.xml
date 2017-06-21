@@ -2,22 +2,32 @@
 <resources>
     <string name="options">Настройки</string>
     <string name="quit">Выход</string>
-    <string name="app_name">Spydroid</string>
-    <string name="description">Передача потокового видео и звука с вашего смартфона через Spydroid</string>
+    <string name="app_name">G-Expo Spycam</string>
+    <string name="description">Передача потокового видео и звука с вашего смартфона через Spycam
+    </string>
     <string name="line1">Откройте в chrome или firefox</string>
     <string name="line2">или в VLC</string>
     <string name="options_activity_title">Настройки</string>
     <string name="warning">Включите wifi и подключитесь к сети !</string>
     <string name="streaming">Трансляция !</string>
     <string name="preview">Start a stream to enable the preview !</string>
-    <string name="notification_title">Spydroid</string>
-    <string name="notification_content">Берегись ! Spydroid работает ;)</string>
-    <string name="about0">Spydroid это веселое приложение с открытым исходным кодом!</string>
-    <string name="about1">Если вам не понятно, как пользоваться данным приложением, вам поможет официальная страница проекта, она находится здесь. К примеру, на ней содержиться ценная информация, как проиграть поток прямо из VLC</string>
-    <string name="about2">Не забудьте оценить приложение, это очень важно, ваша жизнь зависит от этого!</string>
-    <string name="about3">Вы можете также лайкнуть его на facebook`е, почему нет? Давай кликни! Это будет нашим маленьким секретом</string>
+    <string name="notification_title">Spycam</string>
+    <string name="notification_content">Берегись ! Spycam работает ;)</string>
+    <string name="about0">Spycam это веселое приложение с открытым исходным кодом!</string>
+    <string name="about1">Если вам не понятно, как пользоваться данным приложением, вам поможет
+        официальная страница проекта, она находится здесь. К примеру, на ней содержиться ценная
+        информация, как проиграть поток прямо из VLC
+    </string>
+    <string name="about2">Не забудьте оценить приложение, это очень важно, ваша жизнь зависит от
+        этого!
+    </string>
+    <string name="about3">Вы можете также лайкнуть его на facebook`е, почему нет? Давай кликни! Это
+        будет нашим маленьким секретом
+    </string>
     <string name="about4">Веселитесь!</string>
-    <string name="about5">Участвуйте в переводе Spydroid на другие языки ! Если вы готовы помочь мне в моём безумном стремлении, пишите мне на почту :)</string>
+    <string name="about5">Участвуйте в переводе Spycam на другие языки ! Если вы готовы помочь мне
+        в моём безумном стремлении, пишите мне на почту :)
+    </string>
     <string name="settings0">Используемое сейчас разрешение</string>
     <string name="settings1">Используемая сейчас частота кадров</string>
     <string name="settings2">Используемая сейчас скорость передачи</string>
@@ -34,24 +44,26 @@
     <string name="settings13">Скорость передачи</string>
     <string name="settings14">Дополнительные опции</string>
     <string name="settings15">Уведомления</string>
-    <string name="settings16">Включить/Выключить уведомления</string> 
+    <string name="settings16">Включить/Выключить уведомления</string>
     <string name="settings19">HTTP server</string>
     <string name="settings20">HTTP server port</string>
     <string name="settings21">Port used by the HTTP server</string>
     <string name="settings22">Enabled</string>
-    <string name="settings23">Enable/Disable the HTTP server. Leave it on if you don\'t know what you are doing !</string>
+    <string name="settings23">Enable/Disable the HTTP server. Leave it on if you don\'t know what
+        you are doing !
+    </string>
     <string name="settings24">Use HTTPS</string>
     <string name="settings25">NOT STABLE YET !</string>
     <string name="settings26">HTTPS server port</string>
     <string name="settings27">Port used by the HTTPS server</string>
     <string name="settings28">RTSP server</string>
     <string name="settings29">Enabled</string>
-    <string name="settings30">Useful to use Spydroid directly with VLC</string>    
+    <string name="settings30">Useful to use Spycam directly with VLC</string>
     <string name="settings31">RTSP server port</string>
-    <string name="settings32">Port used by the RTSP server</string>    
+    <string name="settings32">Port used by the RTSP server</string>
     <string name="bind_failed">You need to choose another port for the %s server !</string>
-    <string name="port_used">Port already in use !</string>    
+    <string name="port_used">Port already in use !</string>
     <string name="page0">Main</string>
     <string name="page1">Preview</string>
-    <string name="page2">About</string>    
+    <string name="page2">About</string>
 </resources>

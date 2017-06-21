@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.majorkernelpanic.spydroid.test" >
+    package="jaz.gexpo.spycam.test" >
 
     <uses-sdk
         android:minSdkVersion="17"
@@ -10,8 +10,8 @@
         android:name="com.android.test.runner.MultiDexTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for net.majorkernelpanic.spydroid"
-        android:targetPackage="net.majorkernelpanic.spydroid" />
+        android:label="Tests for jaz.gexpo.spycam"
+        android:targetPackage="jaz.gexpo.spycam" />
 
     <application>
         <uses-library android:name="android.test.runner" />

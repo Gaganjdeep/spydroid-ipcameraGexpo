@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
     <string name="about0">Spydroid это веселое приложение с открытым исходным кодом!</string>
-    <string name="about1">Если вам не понятно, как пользоваться данным приложением, вам поможет официальная страница проекта, она находится здесь. К примеру, на ней содержиться ценная информация, как проиграть поток прямо из VLC</string>
-    <string name="about2">Не забудьте оценить приложение, это очень важно, ваша жизнь зависит от этого!</string>
-    <string name="about3">Вы можете также лайкнуть его на facebook`е, почему нет? Давай кликни! Это будет нашим маленьким секретом</string>
+    <string name="about1">Если вам не понятно, как пользоваться данным приложением, вам поможет
+        официальная страница проекта, она находится здесь. К примеру, на ней содержиться ценная
+        информация, как проиграть поток прямо из VLC
+    </string>
+    <string name="about2">Не забудьте оценить приложение, это очень важно, ваша жизнь зависит от
+        этого!
+    </string>
+    <string name="about3">Вы можете также лайкнуть его на facebook`е, почему нет? Давай кликни! Это
+        будет нашим маленьким секретом
+    </string>
     <string name="about4">Веселитесь!</string>
-    <string name="about5">Участвуйте в переводе Spydroid на другие языки ! Если вы готовы помочь мне в моём безумном стремлении, пишите мне на почту :)</string>
-    <string name="app_name">Spydroid</string>
+    <string name="about5">Участвуйте в переводе Spydroid на другие языки ! Если вы готовы помочь мне
+        в моём безумном стремлении, пишите мне на почту :)
+    </string>
+    <string name="app_name">G-Expo Spydroid</string>
     <string name="bind_failed">You need to choose another port for the %s server !</string>
-    <string name="description">Передача потокового видео и звука с вашего смартфона через Spydroid</string>
+    <string name="description">Передача потокового видео и звука с вашего смартфона через Spydroid
+    </string>
     <string name="line1">Откройте в chrome или firefox</string>
     <string name="line2">или в VLC</string>
     <string name="notification_content">Берегись ! Spydroid работает ;)</string>
@@ -21,6 +50,7 @@
     <string name="port_used">Port already in use !</string>
     <string name="preview">Start a stream to enable the preview !</string>
     <string name="quit">Выход</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
     <string name="settings0">Используемое сейчас разрешение</string>
     <string name="settings1">Используемая сейчас частота кадров</string>
     <string name="settings10">Доступны два видео кодека: H.263 и H.264</string>
@@ -35,7 +65,9 @@
     <string name="settings20">HTTP server port</string>
     <string name="settings21">Port used by the HTTP server</string>
     <string name="settings22">Enabled</string>
-    <string name="settings23">Enable/Disable the HTTP server. Leave it on if you don\'t know what you are doing !</string>
+    <string name="settings23">Enable/Disable the HTTP server. Leave it on if you don\'t know what
+        you are doing !
+    </string>
     <string name="settings24">Use HTTPS</string>
     <string name="settings25">NOT STABLE YET !</string>
     <string name="settings26">HTTPS server port</string>
@@ -52,6 +84,7 @@
     <string name="settings7">Передавать видео</string>
     <string name="settings8">Включить/Выключить передачу видео</string>
     <string name="settings9">Видео кодек</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
     <string name="streaming">Трансляция !</string>
     <string name="warning">Включите wifi и подключитесь к сети !</string>
 </resources>
